@@ -1,0 +1,12 @@
+.env
+_retired/
+.vscode
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# source documents
+*.zst
+*.pdf
+*.jpeg
+data/derived/page_extractions/*

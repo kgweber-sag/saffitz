@@ -1,0 +1,7 @@
+zstandard
+networkx
+rapidfuzz
+anthropic
+python-dotenv
+pydantic
+streamlit

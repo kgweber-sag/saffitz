@@ -1,0 +1,1260 @@
+{
+  "DP": [
+    {
+      "recipe_name": "Cherry Cream Cheese Danishes",
+      "page": 263,
+      "difficulty": 5,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Croquembouche",
+      "page": 211,
+      "difficulty": 5,
+      "total_time_label": "3.5 HOURS"
+    },
+    {
+      "recipe_name": "Kouign-amann",
+      "page": 257,
+      "difficulty": 5,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Spelt Croissants",
+      "page": 253,
+      "difficulty": 5,
+      "total_time_label": "12 HOURS+"
+    },
+    {
+      "recipe_name": "Silkiest Chocolate Buttercream",
+      "page": 359,
+      "difficulty": 4,
+      "total_time_label": "1 HOUR"
+    },
+    {
+      "recipe_name": "Peach Melba Tart",
+      "page": 121,
+      "difficulty": 4,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Black Sesame Paris-Brest",
+      "page": 203,
+      "difficulty": 4,
+      "total_time_label": "3 HOURS"
+    },
+    {
+      "recipe_name": "Preserved Lemon Meringue Cake",
+      "page": 206,
+      "difficulty": 4,
+      "total_time_label": "3 HOURS"
+    },
+    {
+      "recipe_name": "G\u00e2teau Basque",
+      "page": 197,
+      "difficulty": 4,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Fruitcake",
+      "page": 193,
+      "difficulty": 4,
+      "total_time_label": "12 HOURS+"
+    },
+    {
+      "recipe_name": "All Allium Deep-Dish Quiche",
+      "page": 309,
+      "difficulty": 4,
+      "total_time_label": "3 HOURS"
+    },
+    {
+      "recipe_name": "Blueberry Slab Pie",
+      "page": 119,
+      "difficulty": 4,
+      "total_time_label": "3.5 HOURS"
+    },
+    {
+      "recipe_name": "Pull-Apart Sour Cream and Chive Rolls",
+      "page": 313,
+      "difficulty": 4,
+      "total_time_label": "3.5 HOURS"
+    },
+    {
+      "recipe_name": "All Coconut Cake",
+      "page": 201,
+      "difficulty": 4,
+      "total_time_label": "3.5 HOURS"
+    },
+    {
+      "recipe_name": "A Little Bit of Everything Bagels",
+      "page": 249,
+      "difficulty": 4,
+      "total_time_label": "6 HOURS"
+    },
+    {
+      "recipe_name": "Ricotta Cake with Kumquat Marmalade",
+      "page": 61,
+      "difficulty": 3,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Brioche Twists with Coriander Sugar",
+      "page": 229,
+      "difficulty": 3,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Pineapple and Pecan Upside-Down Cake",
+      "page": 73,
+      "difficulty": 3,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Feta-Za'atar Flatbread with Charred Eggplant Dip",
+      "page": 299,
+      "difficulty": 3,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Sour Cherry Pie",
+      "page": 111,
+      "difficulty": 3,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Flourless Chocolate Wave Cake",
+      "page": 65,
+      "difficulty": 3,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Pigs in a Brioche Blanket",
+      "page": 303,
+      "difficulty": 3,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Apple Tart",
+      "page": 91,
+      "difficulty": 3,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Speculoos Babka",
+      "page": 239,
+      "difficulty": 3,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Foolproof Tarte Tatin",
+      "page": 107,
+      "difficulty": 3,
+      "total_time_label": "3 HOURS"
+    },
+    {
+      "recipe_name": "Strawberry Rhubarb Pavlovas with Rose",
+      "page": 187,
+      "difficulty": 3,
+      "total_time_label": "3.5 HOURS"
+    },
+    {
+      "recipe_name": "Blood Orange and Olive Oil Upside-Down Cake",
+      "page": 67,
+      "difficulty": 3,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Chocolate-Hazelnut Galette des Rois",
+      "page": 183,
+      "difficulty": 3,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Coconut Thumbprints",
+      "page": 149,
+      "difficulty": 3,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Walnut-Maple Buns",
+      "page": 245,
+      "difficulty": 3,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Blackberry Caramel Tart",
+      "page": 99,
+      "difficulty": 3,
+      "total_time_label": "3 HOURS"
+    },
+    {
+      "recipe_name": "Meyer Lemon Tart",
+      "page": 104,
+      "difficulty": 3,
+      "total_time_label": "3 HOURS"
+    },
+    {
+      "recipe_name": "Earl Grey and Apricot Hamantaschen",
+      "page": 159,
+      "difficulty": 3,
+      "total_time_label": "3.5 HOURS"
+    },
+    {
+      "recipe_name": "Thrice-Baked Rye Cookies",
+      "page": 157,
+      "difficulty": 3,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Strawberry-Almond Bostock",
+      "page": 232,
+      "difficulty": 3,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Clam and Fennel Pizza with Gremolata",
+      "page": 285,
+      "difficulty": 3,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Tarte Trop\u00e9zienne",
+      "page": 189,
+      "difficulty": 3,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Rough Puff Pastry",
+      "page": 355,
+      "difficulty": 3,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Soft and Crispy Focaccia",
+      "page": 289,
+      "difficulty": 3,
+      "total_time_label": "3 HOURS"
+    },
+    {
+      "recipe_name": "Caramelized Honey Pumpkin Pie",
+      "page": 93,
+      "difficulty": 3,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Creamy Greens Pie with Baked Eggs",
+      "page": 282,
+      "difficulty": 3,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Quince and Almond Tart with Ros\u00e9",
+      "page": 115,
+      "difficulty": 3,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Minty Lime Bars",
+      "page": 155,
+      "difficulty": 3,
+      "total_time_label": "3 HOURS"
+    },
+    {
+      "recipe_name": "Goat Cheese Cake with Honey and Figs",
+      "page": 71,
+      "difficulty": 3,
+      "total_time_label": "3.5 HOURS"
+    },
+    {
+      "recipe_name": "Babkallah",
+      "page": 235,
+      "difficulty": 3,
+      "total_time_label": "3.5 HOURS"
+    },
+    {
+      "recipe_name": "Brioche Dough",
+      "page": 352,
+      "difficulty": 3,
+      "total_time_label": "6 HOURS"
+    },
+    {
+      "recipe_name": "Chocolate Buttermilk Cake",
+      "page": 181,
+      "difficulty": 3,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Apricot and Cream Brioche Tart",
+      "page": 102,
+      "difficulty": 3,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Ricotta and Broccoli Rabe Pie",
+      "page": 305,
+      "difficulty": 3,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Strawberry Cornmeal Layer Cake",
+      "page": 177,
+      "difficulty": 3,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Soft and Pillowy Flatbread",
+      "page": 349,
+      "difficulty": 3,
+      "total_time_label": "3.5 HOURS"
+    },
+    {
+      "recipe_name": "Peanut Butter and Concord Grape Sandwich Cookies",
+      "page": 163,
+      "difficulty": 3,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Oat and Pecan Brittle Cookies",
+      "page": 151,
+      "difficulty": 3,
+      "total_time_label": "6 HOURS"
+    },
+    {
+      "recipe_name": "Cinnamon Sugar Palmiers",
+      "page": 136,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Crispy Mushroom Galette",
+      "page": 280,
+      "difficulty": 2,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Pistachio Pinwheels",
+      "page": 141,
+      "difficulty": 2,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Apple and Concord Grape Crumble Pie",
+      "page": 97,
+      "difficulty": 2,
+      "total_time_label": "3 HOURS"
+    },
+    {
+      "recipe_name": "Honey Tahini Challah",
+      "page": 295,
+      "difficulty": 2,
+      "total_time_label": "3.5 HOURS"
+    },
+    {
+      "recipe_name": "St. Louis Gooey Butter Cake",
+      "page": 243,
+      "difficulty": 2,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Brown Butter Corn Muffins",
+      "page": 224,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Coffee Coffee Cake",
+      "page": 219,
+      "difficulty": 2,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Carrot and Pecan Cake",
+      "page": 175,
+      "difficulty": 2,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Rice Pudding Cake with Mango Caramel",
+      "page": 59,
+      "difficulty": 2,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Rhubarb Cake",
+      "page": 56,
+      "difficulty": 2,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Malted \"Forever\" Brownies",
+      "page": 139,
+      "difficulty": 2,
+      "total_time_label": "3 HOURS"
+    },
+    {
+      "recipe_name": "Goug\u00e8res",
+      "page": 277,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Pear-Chestnut Cake",
+      "page": 51,
+      "difficulty": 2,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Tomato Tart with Spices and Herby Feta",
+      "page": 273,
+      "difficulty": 2,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Confetti Cake",
+      "page": 171,
+      "difficulty": 2,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Brown Butter and Sage Sabl\u00e9s",
+      "page": 131,
+      "difficulty": 2,
+      "total_time_label": "3 HOURS"
+    },
+    {
+      "recipe_name": "Aunt Rose's Mondel Bread",
+      "page": 147,
+      "difficulty": 2,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Classic Cream Cheese Frosting",
+      "page": 324,
+      "difficulty": 2,
+      "total_time_label": "1 HOUR"
+    },
+    {
+      "recipe_name": "Salty Nut Tart with Rosemary",
+      "page": 87,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Classic Birthday Cake",
+      "page": 169,
+      "difficulty": 2,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Classic English Muffins",
+      "page": 227,
+      "difficulty": 2,
+      "total_time_label": "6 HOURS"
+    },
+    {
+      "recipe_name": "Graham Cracker Crust",
+      "page": 326,
+      "difficulty": 2,
+      "total_time_label": "1 HOUR"
+    },
+    {
+      "recipe_name": "Pistachio Linzer Tart",
+      "page": 85,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Plum Galette with Polenta and Pistachios",
+      "page": 81,
+      "difficulty": 2,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Cranberry-Pomegranate Mousse Pie",
+      "page": 79,
+      "difficulty": 2,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Frangipane",
+      "page": 329,
+      "difficulty": 2,
+      "total_time_label": "1 HOUR"
+    },
+    {
+      "recipe_name": "P\u00e2te \u00e0 Choux",
+      "page": 346,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Mascarpone Cake with Red Wine Prunes",
+      "page": 47,
+      "difficulty": 2,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Double-Apple Crumble Cake",
+      "page": 53,
+      "difficulty": 2,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Pastry Cream",
+      "page": 321,
+      "difficulty": 2,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Chewy Molasses Spice Cookies",
+      "page": 144,
+      "difficulty": 2,
+      "total_time_label": "1 HOUR"
+    },
+    {
+      "recipe_name": "Spiced Persimmon Cake",
+      "page": 45,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Flaky Olive Oil Dough",
+      "page": 341,
+      "difficulty": 2,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Sweet Tart Dough",
+      "page": 338,
+      "difficulty": 2,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Caramelized Endive Galette",
+      "page": 278,
+      "difficulty": 2,
+      "total_time_label": "3 HOURS"
+    },
+    {
+      "recipe_name": "Flaky All-Butter Pie Dough",
+      "page": 333,
+      "difficulty": 2,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Lemon Curd",
+      "page": 330,
+      "difficulty": 2,
+      "total_time_label": "3 HOURS"
+    },
+    {
+      "recipe_name": "Sweet Yeast Dough",
+      "page": 344,
+      "difficulty": 2,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Chocolate Chip Cookies",
+      "page": 133,
+      "difficulty": 2,
+      "total_time_label": "6 HOURS"
+    },
+    {
+      "recipe_name": "Seedy Maple Breakfast Muffins",
+      "page": 216,
+      "difficulty": 1,
+      "total_time_label": "1 HOUR"
+    },
+    {
+      "recipe_name": "Salted Halvah Blondies",
+      "page": 128,
+      "difficulty": 1,
+      "total_time_label": "1 HOUR"
+    },
+    {
+      "recipe_name": "Buckwheat Blueberry Skillet Pancake",
+      "page": 221,
+      "difficulty": 1,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Marcona Almond Cookies",
+      "page": 127,
+      "difficulty": 1,
+      "total_time_label": "1 HOUR"
+    },
+    {
+      "recipe_name": "Almond Butter Banana Bread",
+      "page": 38,
+      "difficulty": 1,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Honey Almond Syrup",
+      "page": 320,
+      "difficulty": 1,
+      "total_time_label": "5 MIN"
+    },
+    {
+      "recipe_name": "Loaded Corn Bread",
+      "page": 268,
+      "difficulty": 1,
+      "total_time_label": "1 HOUR"
+    },
+    {
+      "recipe_name": "Spiced Honey and Rye Cake",
+      "page": 37,
+      "difficulty": 1,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Poppy Seed Almond Cake",
+      "page": 41,
+      "difficulty": 1,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "All-Purpose Crumble Topping",
+      "page": 319,
+      "difficulty": 1,
+      "total_time_label": "5 MIN"
+    },
+    {
+      "recipe_name": "Kabocha Turmeric Tea Cake",
+      "page": 42,
+      "difficulty": 1,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Miso Buttermilk Biscuits",
+      "page": 271,
+      "difficulty": 1,
+      "total_time_label": "1 HOUR"
+    }
+  ],
+  "WFD": [
+    {
+      "recipe_name": "Chocolate Souffl\u00e9s",
+      "page": 303,
+      "difficulty": 3,
+      "total_time_label": "1 HOUR"
+    },
+    {
+      "recipe_name": "Buckwheat & Lemon Crepes Suzette",
+      "page": 125,
+      "difficulty": 3,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Malted Banana Upside-Down Cake with Malted Cream",
+      "page": 171,
+      "difficulty": 3,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Walnut & Oat Slab Pie",
+      "page": 273,
+      "difficulty": 3,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Cinnamon-&-Sugar Apple Pie",
+      "page": 267,
+      "difficulty": 3,
+      "total_time_label": "3 HOURS"
+    },
+    {
+      "recipe_name": "Fried Sour Cherry Pies",
+      "page": 271,
+      "difficulty": 3,
+      "total_time_label": "3.5 HOURS"
+    },
+    {
+      "recipe_name": "Marbled Sheet Cake",
+      "page": 176,
+      "difficulty": 3,
+      "total_time_label": "3.5 HOURS"
+    },
+    {
+      "recipe_name": "Whipped Cream Tres Leches Cake with Hazelnuts",
+      "page": 173,
+      "difficulty": 3,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Pillowy Beignets",
+      "page": 127,
+      "difficulty": 3,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Marbled Mint Chocolate Mousse",
+      "page": 77,
+      "difficulty": 3,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Mango-Yogurt Mousse",
+      "page": 83,
+      "difficulty": 3,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Coffee Stracciatella Semifreddo",
+      "page": 80,
+      "difficulty": 3,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Prune & Almond Rugelach",
+      "page": 223,
+      "difficulty": 3,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Souffl\u00e9ed Lemon Bread Pudding",
+      "page": 325,
+      "difficulty": 3,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Honeyed Nut & Phyllo Pie",
+      "page": 241,
+      "difficulty": 2,
+      "total_time_label": "1 HOUR"
+    },
+    {
+      "recipe_name": "Crystallized Meyer Lemon Bundt Cake",
+      "page": 161,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Peach, Bourbon & Pecan Cake",
+      "page": 147,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Free-Form Hazelnut Florentines",
+      "page": 214,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Coconut Macaroon Bars",
+      "page": 209,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Caramel Peanut Popcorn Bars",
+      "page": 213,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Cranberry Anadama Cake",
+      "page": 153,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Flourless Chocolate Meringue Cake",
+      "page": 167,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Polenta Pistachio Pound Cake",
+      "page": 164,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Spiced Pear Charlotte with Brioche",
+      "page": 287,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Burnt Maple Pain Perdu",
+      "page": 99,
+      "difficulty": 2,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "All-In Shortbreads",
+      "page": 207,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Roasted Lemon Tart",
+      "page": 253,
+      "difficulty": 2,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Lime Squiggles",
+      "page": 204,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Toasted Rice Sabl\u00e9s",
+      "page": 203,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Salty Cashew Blondies",
+      "page": 196,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Sweet Cheese Blintzes with Lemony Apricot Compote",
+      "page": 115,
+      "difficulty": 2,
+      "total_time_label": "3 HOURS"
+    },
+    {
+      "recipe_name": "S'mores Tart",
+      "page": 257,
+      "difficulty": 2,
+      "total_time_label": "3.5 HOURS"
+    },
+    {
+      "recipe_name": "Cr\u00e8me Anglaise",
+      "page": 348,
+      "difficulty": 2,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Eton Mess Two Ways",
+      "page": 319,
+      "difficulty": 2,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "No-Bake Lime-Coconut Custards with Coconut Crumble",
+      "page": 61,
+      "difficulty": 2,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Banoffee Pudding",
+      "page": 97,
+      "difficulty": 2,
+      "total_time_label": "6 HOURS"
+    },
+    {
+      "recipe_name": "Quince & Pineapple Jam Tart",
+      "page": 265,
+      "difficulty": 2,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Rye Bread Pudding with Rye Whiskey Caramel Sauce",
+      "page": 307,
+      "difficulty": 2,
+      "total_time_label": "6 HOURS"
+    },
+    {
+      "recipe_name": "Inverted Affogatos",
+      "page": 294,
+      "difficulty": 2,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Tiramisu-y Icebox Cake",
+      "page": 63,
+      "difficulty": 2,
+      "total_time_label": "6 HOURS"
+    },
+    {
+      "recipe_name": "No-Bake Grapefruit Bars",
+      "page": 75,
+      "difficulty": 2,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Malted & Salted Caramel Pudding",
+      "page": 119,
+      "difficulty": 2,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Blood Orange Pudding Cake",
+      "page": 297,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Grand Marnier Souffl\u00e9s",
+      "page": 300,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Rhubarb & Raspberry Shortcakes with Poppy Seeds",
+      "page": 251,
+      "difficulty": 2,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Frosted Sour Cream Cake Donuts",
+      "page": 121,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Glazed Spelt Graham Crackers",
+      "page": 199,
+      "difficulty": 2,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Honey & Tahini Toffee Matzo",
+      "page": 195,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "All-Purpose Drop Biscuit or Shortcake Dough",
+      "page": 336,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Floating Islands",
+      "page": 113,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Toasted Farro Pudding with Red Wine Cherries",
+      "page": 94,
+      "difficulty": 2,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Morning Glorious Loaf Cake",
+      "page": 151,
+      "difficulty": 2,
+      "total_time_label": "3 HOURS"
+    },
+    {
+      "recipe_name": "Black Sesame Merveilleux",
+      "page": 323,
+      "difficulty": 2,
+      "total_time_label": "3.5 HOURS"
+    },
+    {
+      "recipe_name": "Tapioca Pudding with Saffron and Pomegranate",
+      "page": 90,
+      "difficulty": 2,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "No-Bake Strawberry Ricotta Cheesecake",
+      "page": 67,
+      "difficulty": 2,
+      "total_time_label": "12 HOURS+"
+    },
+    {
+      "recipe_name": "Cherry Pavlova with Hibiscus",
+      "page": 309,
+      "difficulty": 2,
+      "total_time_label": "3.5 HOURS"
+    },
+    {
+      "recipe_name": "Grape Semifreddo",
+      "page": 71,
+      "difficulty": 2,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Molten Chocolate Olive Oil Cakes",
+      "page": 157,
+      "difficulty": 2,
+      "total_time_label": "1 HOUR"
+    },
+    {
+      "recipe_name": "Salted Caramel Sauce",
+      "page": 346,
+      "difficulty": 2,
+      "total_time_label": "1 HOUR"
+    },
+    {
+      "recipe_name": "Bananas Flamb\u00e9",
+      "page": 110,
+      "difficulty": 2,
+      "total_time_label": "1 HOUR"
+    },
+    {
+      "recipe_name": "Old-Fashioned Cherries Jubilee",
+      "page": 105,
+      "difficulty": 2,
+      "total_time_label": "1 HOUR"
+    },
+    {
+      "recipe_name": "All-Purpose Meringue",
+      "page": 344,
+      "difficulty": 2,
+      "total_time_label": "1 HOUR"
+    },
+    {
+      "recipe_name": "Sticky Pumpkin-Chestnut Gingerbread",
+      "page": 158,
+      "difficulty": 2,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Blue & White Cookies",
+      "page": 220,
+      "difficulty": 2,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Peach Drop Biscuit Cobbler",
+      "page": 248,
+      "difficulty": 2,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Kabocha & Ginger Souffl\u00e9s",
+      "page": 317,
+      "difficulty": 2,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Easy Marshmallows",
+      "page": 341,
+      "difficulty": 2,
+      "total_time_label": "2.5 HOURS"
+    },
+    {
+      "recipe_name": "Sugar Cookies",
+      "page": 217,
+      "difficulty": 2,
+      "total_time_label": "3 HOURS"
+    },
+    {
+      "recipe_name": "Profiterole Bar with Berry, Hot Fudge, and Salted Caramel Sauces",
+      "page": 312,
+      "difficulty": 2,
+      "total_time_label": "3.5 HOURS"
+    },
+    {
+      "recipe_name": "Choose-Your-Own-Ending Custards: Cr\u00e8me Br\u00fbl\u00e9e or Cr\u00e8me Caramel",
+      "page": 291,
+      "difficulty": 2,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Chocolate Coupes",
+      "page": 103,
+      "difficulty": 2,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Banana-Sesame Cream Tart",
+      "page": 245,
+      "difficulty": 2,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Caramelized Pear Turnover with Sage",
+      "page": 261,
+      "difficulty": 2,
+      "total_time_label": "3 HOURS"
+    },
+    {
+      "recipe_name": "Honey-Roasted Apple Cake",
+      "page": 138,
+      "difficulty": 1,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Blueberry Buckle with Cornflake Streusel",
+      "page": 141,
+      "difficulty": 1,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Fennel & Olive Oil Cake with Blackberries",
+      "page": 133,
+      "difficulty": 1,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Coconut-Jasmine Rice Pudding with Lychee",
+      "page": 89,
+      "difficulty": 1,
+      "total_time_label": "3.5 HOURS"
+    },
+    {
+      "recipe_name": "Easy Apple Galette",
+      "page": 237,
+      "difficulty": 1,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Apricot & Strawberry Galette",
+      "page": 238,
+      "difficulty": 1,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Rhubarb & Oat Crumb Cakes",
+      "page": 137,
+      "difficulty": 1,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Persimmon Panna Cotta",
+      "page": 51,
+      "difficulty": 1,
+      "total_time_label": "3.5 HOURS"
+    },
+    {
+      "recipe_name": "Goat Milk Panna Cotta with Guava Sauce",
+      "page": 52,
+      "difficulty": 1,
+      "total_time_label": "3.5 HOURS"
+    },
+    {
+      "recipe_name": "French 75 Jelly with Grapefruit",
+      "page": 42,
+      "difficulty": 1,
+      "total_time_label": "3.5 HOURS"
+    },
+    {
+      "recipe_name": "Roasted Red Plum & Biscoff Icebox Cake",
+      "page": 39,
+      "difficulty": 1,
+      "total_time_label": "12 HOURS+"
+    },
+    {
+      "recipe_name": "Cherry & Brown Butter Buckwheat Crisp",
+      "page": 229,
+      "difficulty": 1,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Phyllo Cardamom Pinwheels",
+      "page": 186,
+      "difficulty": 1,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Crunchy Almond Cake",
+      "page": 143,
+      "difficulty": 1,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "All-Purpose Flaky Pastry Dough",
+      "page": 331,
+      "difficulty": 1,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Raspberry Almond Thumbprints",
+      "page": 183,
+      "difficulty": 1,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Baked Frangipane Apples",
+      "page": 284,
+      "difficulty": 1,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Creamy Rice Pudding with Candied Kumquats",
+      "page": 93,
+      "difficulty": 1,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Berry Crisp with Seedy Granola Topping",
+      "page": 234,
+      "difficulty": 1,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Melon Parfaits",
+      "page": 47,
+      "difficulty": 1,
+      "total_time_label": "3 HOURS"
+    },
+    {
+      "recipe_name": "Salty Brownie Ice Cream Sandwiches",
+      "page": 57,
+      "difficulty": 1,
+      "total_time_label": "3 HOURS"
+    },
+    {
+      "recipe_name": "Pineapple & Coconut-Rum Sundaes",
+      "page": 45,
+      "difficulty": 1,
+      "total_time_label": "4 HOURS"
+    },
+    {
+      "recipe_name": "Baked Semolina Pudding with Clementines and Bay Leaves",
+      "page": 288,
+      "difficulty": 1,
+      "total_time_label": "1.5 HOURS"
+    },
+    {
+      "recipe_name": "Cocoa-Chestnut Brownies",
+      "page": 192,
+      "difficulty": 1,
+      "total_time_label": "2 HOURS"
+    },
+    {
+      "recipe_name": "Classic Sundae Bombe",
+      "page": 55,
+      "difficulty": 1,
+      "total_time_label": "3.5 HOURS"
+    },
+    {
+      "recipe_name": "Cajeta Pots de Cr\u00e8me",
+      "page": 279,
+      "difficulty": 1,
+      "total_time_label": "3.5 HOURS"
+    },
+    {
+      "recipe_name": "Hot Fudge Sauce",
+      "page": 315,
+      "difficulty": 1,
+      "total_time_label": "1 HOUR"
+    },
+    {
+      "recipe_name": "Seedy Whole Wheat Chocolate Chip Skillet Cookie",
+      "page": 189,
+      "difficulty": 1,
+      "total_time_label": "1 HOUR"
+    },
+    {
+      "recipe_name": "Berry Sauce",
+      "page": 315,
+      "difficulty": 1,
+      "total_time_label": "5 MIN"
+    },
+    {
+      "recipe_name": "Hot Chocolate with Marshmallows",
+      "page": 87,
+      "difficulty": 1,
+      "total_time_label": "5 MIN"
+    },
+    {
+      "recipe_name": "Pastry Bianco with Slow-Roasted Plums",
+      "page": 233,
+      "difficulty": 1,
+      "total_time_label": "2 HOURS"
+    }
+  ]
+}
