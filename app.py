@@ -327,7 +327,7 @@ def _render_recipe_header(recipe, compact=False):
 
     badges = []
     if recipe.get("season"):
-        badges.append(f"🌸 {recipe['season']}")
+        badges.append(f"🌸❄️ {recipe['season']}")
     if recipe.get("dietary_flags"):
         badges += recipe["dietary_flags"]
     if recipe.get("special_equipment"):
